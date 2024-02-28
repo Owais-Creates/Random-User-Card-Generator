@@ -21,7 +21,7 @@ h1 {
 
 .card {
     height: 400px;
-    width: 350px;
+    width: 500px;
     border: 2px solid black;
     border-radius: 40px;
     position: relative;
@@ -31,7 +31,7 @@ h1 {
     align-items: center;
 }
 
-.image {
+.image img {
     width: 150px;
     height: 150px;
     border: 5px solid blue;
